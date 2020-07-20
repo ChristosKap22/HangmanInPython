@@ -1,0 +1,14 @@
+word_list=[
+'scared',
+'carve',
+'eminent',
+'remember'
+'cellar',
+'double',
+'guide',
+'grey',
+'voice',
+'snatch'
+'combative',
+'abrupt',
+'unbiased']
